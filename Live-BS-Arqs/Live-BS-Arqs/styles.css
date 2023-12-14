@@ -1,0 +1,60 @@
+:root {
+    --font-body: 'Quicksand', sans-serif;
+    --color-light: #ffffff;
+    --gradient: linear-gradient(115deg,
+            hsl(157deg 24% 22%) 0%,
+            hsl(157deg 26% 20%) 9%,
+            hsl(157deg 28% 18%) 25%,
+            hsl(157deg 31% 17%) 43%,
+            hsl(157deg 34% 15%) 63%,
+            hsl(158deg 38% 14%) 83%,
+            hsl(158deg 43% 12%) 100%);
+
+
+}
+
+.body {
+    font-family: var(--font-body);
+}
+
+
+.bg-green {
+    background-image: var(--gradient);
+}
+
+.logo {
+    font-size: 2rem;
+    color: var(--color-light);
+}
+
+.logo:hover,
+.logo:visited {
+    color: var(--color-light)
+}
+
+.logo:hover {
+    color: #ffffff;
+}
+
+.navbar-toggler {
+    box-shadow: none !important;
+    border-color: var(--color-light);
+}
+
+.nav-link {
+    color: var(--color-light);
+    font-weight: 600;
+
+}
+
+.nav-link:hover {
+    color: #93F7D1 !important;
+}
+
+.my-sm {
+    margin-bottom: 1.5rem;
+}
+
+.icon {
+    font-size: 2.5rem;
+}

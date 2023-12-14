@@ -1,0 +1,36 @@
+BS Icons
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+--------------------------------------------------------
+
+Google Fonts
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+
+--------------------------------------------------------
+
+linear-gradient
+cores: #93F7D1 - #0B1411
+linear-gradient(115deg,
+        hsl(157deg 24% 22%) 0%,
+        hsl(157deg 26% 20%) 9%,
+        hsl(157deg 28% 18%) 25%,
+        hsl(157deg 31% 17%) 43%,
+        hsl(157deg 34% 15%) 63%,
+        hsl(158deg 38% 14%) 83%,
+        hsl(158deg 43% 12%) 100%);
+
+https://www.joshwcomeau.com/gradient-generator/
+
+https://hypercolor.dev/
+
+--------------------------------------------------------
+
+ícones
+logo = <i class="bi bi-cloud-arrow-down"></i>
+menu = <i class="bi bi-filter-right"></i>
+caminhão = <i class="bi bi-truck"></i>
+sacola = <i class="bi bi-bag-heart"></i>
+caixa = <i class="bi bi-columns"></i>
+setas = <i class="bi bi-shuffle"></i>
